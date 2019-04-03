@@ -86,6 +86,12 @@ void main(void)
 
     while (1)
     {
+      
+      if(isRunning){
+            
+        } else {
+            SLEEP();
+        }
 
     }
 }
